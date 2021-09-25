@@ -22,6 +22,5 @@ def lista_check(lista):
         numero.add(i)
     return -1
 
-
 for list in lista_de_listas_de_inteiros:
     print(list, lista_check(list))

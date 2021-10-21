@@ -1,6 +1,6 @@
-## **Aulas de Python Udemy**
+## **Aulas de Python**
 
-Alguns exemplos dos apreendizados em Python.
+Alguns exemplos dos apreendizados em Python...
 
 
 
